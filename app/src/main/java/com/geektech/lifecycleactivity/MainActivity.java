@@ -22,6 +22,11 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
             finish();
         });
+        test();
+    }
+
+    private void test(){
+
     }
 
     @Override
